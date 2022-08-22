@@ -1,0 +1,121 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float: none;
+  background: white ; 
+  border-radius: 20px;  
+  color: black;
+  padding: 10px;
+}
+.heading_div2
+{
+  font-size: 23px ;
+}
+
+.copy_right_footer
+{
+  background-color: yellow;
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+#img1
+{
+  height: 250;
+  width: 230;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+#shoes
+{
+  background-color: grey;
+  box-shadow: darkgrey;
+  border-radius: 20px;
+  width: 1000;
+  height: 300;
+  margin-left: 20px;
+}
+
+#label1
+{
+  background-color: azure;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+#label2
+{
+  background-color: azure;
+  border-radius: 30px;
+  margin-left: 10px;
+}
+
+#label3
+{
+  background-color: azure;
+  border-radius: 30px;
+  margin-left: 130px;
+}
+
+#bottle
+{
+  background-color: grey;
+  box-shadow: darkgrey;
+  border-radius: 20px;
+  width: 1000;
+  height: 300;
+  margin-left: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#headphone
+{
+  background-color: grey;
+  box-shadow: darkgrey;
+  border-radius: 20px;
+  width: 1000;
+  height: 300;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+#softToy
+{
+  background-color: grey;
+  box-shadow: darkgrey;
+  border-radius: 20px;
+  width: 1000;
+  height: 300;
+  margin-left: 300px;
+  margin-bottom: 20px;
+}
+
+#bed
+{
+  background-color: grey;
+  box-shadow: darkgrey;
+  border-radius: 20px;
+  width: 1000;
+  height: 300;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+#tested_images
+{
+  background-color: pink;
+  height: 70px;
+  width: 100px;
+}
